@@ -1,6 +1,6 @@
 # Earthquake Visualization with Leaflet
 
-![Map Preview](Leaflet-Part-1/Starter_Code/Images/finished.png)
+![Map Preview](finished.png)
 
 This project visualizes earthquake data using Leaflet. It allows users to explore recent earthquake data and seismic activity.
 
